@@ -9,5 +9,3 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loretito&layout=compact&theme=dark&hide_border=true)
-
