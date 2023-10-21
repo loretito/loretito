@@ -1,8 +1,8 @@
 # Hi, I'm Loreto <img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" width="60"></img>
 
-Student of Computer Science and Telecommunications engineering. I am working on various projects, aspiring to become a full-stack developer. Apart from programming, I have a great passion for videogames.
+Student of Computer Science and Telecommunications Engineering. I'm working on various projects with an aspiration to become a full-stack developer. Apart from programming, I have a great passion for videogames.
 
-- 💻 Currently working at [Dyatec](http://dyatec.cl/)
+- 💻 Currently working at [Dyatec](http://dyatec.cl/) as a Web Developer
 - 👀 I'm interested in developing new programming skills
 - 💬 Brainstorm with me about tech, algorithms and videogames
 - 🌱 Currently learning TypeScript and Next.js
