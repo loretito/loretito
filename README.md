@@ -2,7 +2,6 @@
 
 Student of Computer Science and Telecommunications Engineering. I'm working on various projects with an aspiration to become a full-stack developer. Apart from programming, I have a great passion for videogames.
 
-- 💻 Currently working at [Dyatec](http://dyatec.cl/) as a Web Developer
 - 👀 I'm interested in developing new programming skills
 - 💬 Brainstorm with me about tech, algorithms and videogames
 - 🌱 Currently learning TypeScript and Next.js
