@@ -1,10 +1,10 @@
 # Hi, I'm Loreto <img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" width="60"></img>
 
-Student of Computer Science and Telecommunications Engineering. I'm working on various projects with an aspiration to become a full-stack developer. Apart from programming, I have a great passion for videogames.
+Student of Computer Science and Telecommunications Engineering. Currently focusing on learning more about artificial intelligence, with a particular interest in reinforcement learning and its applications.
 
 - 👀 I'm interested in developing new programming skills
 - 💬 Brainstorm with me about tech, algorithms and videogames
-- 🌱 Currently learning TypeScript and Next.js
+- 📈 Leveling up my neural network!
 - 🚀 Feel free to contribute to my repositories, no matter how small the change
 - 📫 You can reach me via email ➞ loreto.nancucheo@gmail.com
 
